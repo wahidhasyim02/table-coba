@@ -862,10 +862,6 @@ video {
   height: 832px !important;
 }
 
-.h-full {
-  height: 100% !important;
-}
-
 .w-10 {
   width: 2.5rem !important;
 }
@@ -2238,6 +2234,11 @@ video {
 .text-gray-600 {
   --tw-text-opacity: 1 !important;
   color: rgb(75 85 99 / var(--tw-text-opacity)) !important;
+}
+
+.text-purple-600 {
+  --tw-text-opacity: 1 !important;
+  color: rgb(147 51 234 / var(--tw-text-opacity)) !important;
 }
 
 .underline {
